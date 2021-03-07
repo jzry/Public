@@ -1,3 +1,5 @@
+// This program allows the creation of Binary Search Trees (BST).
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
