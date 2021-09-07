@@ -16,7 +16,6 @@
 #define NO_PATHWAY 0
 #define PATHWAY 1
 
-
 // Information functions:
 typedef struct Data
 {
